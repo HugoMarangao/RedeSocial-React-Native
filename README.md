@@ -20,7 +20,7 @@
 Ess é meu projeto mais completo uma RedeSocial completa onde o usuario faz login,compartilha seu dia a dia com imagem
 e texto e pode fazer atualizacoes do seu perfil 
 
-[![Watch the video](https://www.youtube.com/watch?v=Qstre1Eljs0)](https://youtu.be/T-D1KVIuvjA)
+https://img.youtube.com/vi/<https://www.youtube.com/watch?v=J2Gamr4psWc>/0.jpg
 
   
 # 📔 Requisitos:
