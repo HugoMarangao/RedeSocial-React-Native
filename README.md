@@ -20,7 +20,9 @@
 Ess é meu projeto mais completo uma RedeSocial completa onde o usuario faz login,compartilha seu dia a dia com imagem
 e texto e pode fazer atualizacoes do seu perfil 
 
- <a href="https://www.youtube.com/watch?v=Qstre1Eljs0"></a>
+ <a href="https://www.youtube.com/watch?v=Qstre1Eljs0">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+ </a>
 
 
   
