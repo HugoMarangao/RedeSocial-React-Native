@@ -21,7 +21,7 @@ Ess é meu projeto mais completo uma RedeSocial completa onde o usuario faz logi
 e texto e pode fazer atualizacoes do seu perfil 
 
  <a href="https://www.youtube.com/watch?v=Qstre1Eljs0">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+    <img src="https://api-club.hotmart.com/file/public/v5/files/70781157-cc55-4273-8a1d-19c5109d2f77"/>
  </a>
 
 
