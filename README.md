@@ -1,4 +1,4 @@
-# RedeSocial usando React Native 
+# Social Network using React Native
 <p align="center">
   <a href="https://github.com/facebook/react-native/blob/HEAD/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="React Native is released under the MIT license." />
@@ -17,8 +17,8 @@
   </a>
 </p>
 
-Ess é meu projeto mais completo uma RedeSocial completa onde o usuario faz login,compartilha seu dia a dia com imagem
-e texto e pode fazer atualizacoes do seu perfil 
+This is my most complete project a complete Social Network where the user logs in, shares his daily life with image
+And text and you can update your profile 
 
  <a href="https://www.youtube.com/watch?v=Qstre1Eljs0">
     <img src="https://api-club.hotmart.com/file/public/v5/files/70781157-cc55-4273-8a1d-19c5109d2f77"/>
@@ -27,7 +27,7 @@ e texto e pode fazer atualizacoes do seu perfil
 
   
 # 📔 Requisitos:
-- necessário o android studio ou o sistema da apple para uso do simulador.
+- Android studio or apple system is required to use the simulator.
 - React Navigation
 - Firebase 
 - React Native
